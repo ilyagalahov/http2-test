@@ -6,7 +6,7 @@ The tests are divided into client and server tests.
 
 #Usage
 Install all node modules and run `grunt mochaTest:client`. A sample browser is also included.
-
+If you want to run in plain HTTP2 mode, set environment variable: 'set PLAIN_HTTP2=true' before running.
 #Adding Tests
 
 ## Server tests
